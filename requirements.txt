@@ -1,0 +1,12 @@
+# Core libraries
+numpy==1.26.4
+pandas==2.2.3
+matplotlib==3.9.2
+scikit-learn==1.5.2
+
+# NLP and Hugging Face
+transformers==4.44.2
+torch==2.4.1
+
+# to experiment with fine-tuning
+datasets==3.0.1
