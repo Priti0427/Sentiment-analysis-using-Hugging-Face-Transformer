@@ -9,12 +9,6 @@ The goal is to automatically classify text as **Positive**, **Negative**, or **N
 
 ---
 
-## 👥 Team 2
-
-- Viktor Kliufinskyi
-- Priti Sagar
-- Daniel Cortes
-
 ---
 
 ## 🧠 Project Overview
