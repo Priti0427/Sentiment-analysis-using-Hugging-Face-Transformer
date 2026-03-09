@@ -149,7 +149,5 @@ Try creative analysis with your own text!
 - Fine-tune RoBERTa for lyrics/news data
 
 ## 🧑‍💻 Authors
-- Viktor Kliufinskyi
 - Priti Sagar
-- Daniel Cortes
 
